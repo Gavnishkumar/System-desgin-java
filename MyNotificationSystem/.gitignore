@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+
+# Package Files
+# *.jar
+# *.war
+# *.ear
+
+# Directories
+target/
+build/
+bin/
+
+# IDE specific files
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+
+# Log file
+*.log
